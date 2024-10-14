@@ -1,2 +1,3 @@
-# Anisotropic-Diffusion
-Notebook showcasing anisotropic diffusion for reducing noise
+# Computer Vision Assignments
+1. Anisotropic Diffusion
+2. Harris Corner Detection
